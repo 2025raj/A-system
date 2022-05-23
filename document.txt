@@ -1,0 +1,10 @@
+#question 6 and 7:
+
+
+
+
+==>(** )denotes to exponent, power of a cofficient
+==>global variables are those variables which are defined outside the function and can access it directly 
+using " global" keyword inside the function ..
+
+==>local variables are those variables which are defined inside the function....
